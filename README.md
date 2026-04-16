@@ -48,7 +48,7 @@ A modern Flutter weather application that provides real-time weather updates, ho
 * **GeoDB API** (City Search)
 * **Flutter Local Notifications**
 * **Timezone Package**
-* **Lottie Animations**
+* **Lottie Animations **
 
 ---
 
@@ -152,6 +152,23 @@ flutter run
 ## 👨‍💻 Author
 
 **Aman Sachla**
+
+---
+
+## 🎨 Assets & Credits
+
+* 🌦 Weather animations sourced from **Meteocons Lottie Pack**
+* Created by **Bas Milius**
+* GitHub Repository: https://github.com/basmilius/meteocons
+
+These animations are used for visual representation of weather conditions such as sunrise, sunset, wind, and more.
+
+---
+
+### 📜 License
+
+Please refer to the original repository for license details:
+https://github.com/basmilius/meteocons/blob/main/LICENSE
 
 ---
 
